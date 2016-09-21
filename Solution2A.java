@@ -28,9 +28,9 @@ public class Solution2A {
 	}
 	public static void main(String[] args)
 	{
-		Solution2 s2=new Solution2();
+		Solution2A sa=new Solution2A();
 		String s=new String("abbCCCddBBBxx");
-		System.out.println(s2.maxBlock(s));
+		System.out.println(sa.maxBlock(s));
 	}
 }
 
